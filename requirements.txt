@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate>=0.26.0
+datasets
+scikit-learn
+indobenchmark-toolkit
+evaluate
+rouge_score
+sentencepiece
+nltk
+absl-py
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+tqdm
