@@ -1,4 +1,10 @@
+import transformers.utils.generic
 import types
+
+missing_flags = ["_is_jax", "_is_numpy", "_is_tensorflow", "_is_torch", "_is_torch_device"]
+for flag in missing_flags:
+    if not hasattr(transformers.utils.generic, flag):
+        setattr(transformers.utils.generic, flag, False)
 
 def apply_tokenizer_patches(tokenizer):
     _original_pad = tokenizer.pad
