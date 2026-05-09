@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-latest-green.svg)](https://huggingface.co/docs/transformers/index)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Read on Medium](https://img.shields.io/badge/Read_the_Article-Medium-12100E?style=flat&logo=medium&logoColor=white)](YOUR_MEDIUM_ARTICLE_URL_HERE)
+[![Read on Medium](https://img.shields.io/badge/Read_the_Article-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@muanaikhalifahr/taming-ambiguity-in-indonesian-text-summarization-building-an-indobart-v2-pipeline-from-research-f3be68ee6cac)
 
 > **Read the full technical breakdown on [Medium](YOUR_MEDIUM_ARTICLE_URL_HERE):** *Beyond the ROUGE Score: A Practical Engineering Guide to Indonesian NLP Pipelines.*
 
