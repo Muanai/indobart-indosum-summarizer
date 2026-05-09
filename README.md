@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Read on Medium](https://img.shields.io/badge/Read_the_Article-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@muanaikhalifahr/taming-ambiguity-in-indonesian-text-summarization-building-an-indobart-v2-pipeline-from-research-f3be68ee6cac)
 
-> **Read the full technical breakdown on [Medium](YOUR_MEDIUM_ARTICLE_URL_HERE):** *Beyond the ROUGE Score: A Practical Engineering Guide to Indonesian NLP Pipelines.*
+> **Read the full technical breakdown on [Medium](https://medium.com/@muanaikhalifahr/taming-ambiguity-in-indonesian-text-summarization-building-an-indobart-v2-pipeline-from-research-f3be68ee6cac):** *Beyond the ROUGE Score: A Practical Engineering Guide to Indonesian NLP Pipelines.*
 
 An engineering-focused, production-ready abstractive text summarization pipeline utilizing **IndoBART-v2** fine-tuned on the **IndoSum** dataset. This project goes beyond basic model training to address real-world machine learning engineering challenges, including legacy dependency resolution, hardware-specific optimization, and modular system design.
 
